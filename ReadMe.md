@@ -28,3 +28,10 @@ Main Module used -
 if you phase Any problem with this project contact me @
 
 Email : nextinnovate.info@gmail.com
+
+ * Insert All file in to a Same Folder
+ * You want to Run only login.py
+ * Please Edit Your Email and Password in emailNextIn.py file
+ * also change the Content You want to Send to Ever Email Registered by Your Registration Page
+ * Connect Database to MySQL for Saving All data
+ * XAMPP is the besy tool for running localhost - you Can use any of them
