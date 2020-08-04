@@ -15,10 +15,7 @@ global sub , content
 sub = "U are now Connected to NextIn !"
 
 content = '''
-		heyy ! you are now Succesfully Connected with
-		Next Innppovation.
-		For any help related queries 
-		pls email on : nextinnovate.info@gmail.com
+			Enter Your Message in this Content Variable
 		           - Team NextIn
 		'''
 #################################
