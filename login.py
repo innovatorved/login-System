@@ -18,6 +18,7 @@ content = '''
 			Enter Your Message in this Content Variable
 		           - Team NextIn
 		'''
+>>>>>>> 049d64484ada8b053663d5161019a7ed09874ef3
 #################################
 app = Flask(__name__)
 app.secret_key = "7007868719"
