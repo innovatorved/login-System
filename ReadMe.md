@@ -1,9 +1,8 @@
-##################################
+
 #                                #
 #   Author : Ved Prakash Gupta   #
 #            NextIn              #
 #                                #
-##################################
 
 Date : 25 June 2020 - 02:09 AM
 copyright (c) 2020 Ved Prakash Gupta All Right Reserved.
@@ -34,4 +33,5 @@ Email : nextinnovate.info@gmail.com
  * Please Edit Your Email and Password in emailNextIn.py file
  * also change the Content You want to Send to Ever Email Registered by Your Registration Page
  * Connect Database to MySQL for Saving All data
- * XAMPP is the besy tool for running localhost - you Can use any of them
+ * XAMPP is the best tool for running localhost - you Can use any of them
+ 
