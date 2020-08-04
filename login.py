@@ -15,12 +15,8 @@ global sub , content
 sub = "U are now Connected to NextIn !"
 
 content = '''
-		heyy ! you are now Succesfully Connected with
-		Next Innppovation.
-		For any help related queries 
-		pls email on : nextinnovate.info@gmail.com
-		           - Team NextIn
-		'''
+		_Your Content Here_
+	'''
 #################################
 app = Flask(__name__)
 app.secret_key = "7007868719"
