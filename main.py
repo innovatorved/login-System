@@ -3,6 +3,10 @@
 from flask import Flask
 from flask import render_template ,redirect ,url_for
 
+# only a sample file 
+# Main file is : login.py
+# Genral introduction to Python  flask library
+
 app = Flask(__name__)
 
 @app.route('/')
