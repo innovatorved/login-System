@@ -46,7 +46,7 @@ print("Succesfully Connected with Email.")
 def user_for_attachment(rec_email , file , sub , content , html):
 
     #company mail
-    sen_email = "nextinnovate.info@gmail.com"
+    sen_email = "eaxample@email.com" # write your email 
     #Setup the MIME
     msg = MultI()
     msg['From'] = sen_email
@@ -118,7 +118,7 @@ def user_for_attachment(rec_email , file , sub , content , html):
     html_insta = '''<hr width="70%">
                     <p style='font-size:20px; color:#83BFBD;'>
                     follow our Page on Insta :
-                    <a href = 'https://instagram.com/next_in__?igshid=190uoeko97a2c'>
+                    <a href = '__ paste your insta link🔗__'>
                     <b style='color:#4079AA;'>next_in__@insta</b>
                     </a>
                     </p>
@@ -156,7 +156,7 @@ def logOut():
 
 #we are ready to send mail
 '''
-rec_email = "318@gmail.com"
+rec_email = "example@gmail.com"
 file_name = "for_test.pdf"
 sub = "We are Ready! U are now Connected to NextIn"
 content = """
